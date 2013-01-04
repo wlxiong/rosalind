@@ -9,7 +9,7 @@
 	[x]	SUBS	Finding a Motif in DNA
 	[x]	CONS	Consensus and Profile
 	[x]	GRPH	Overlap Graphs
-	[ ]	IPRB	Mendel's First Law
+	[x]	IPRB	Mendel's First Law
 	[x]	LCS		Finding a Shared Motif
 	[x]	PERM	Enumerating Gene Orders
 	[ ]	PROT	Protein Translation
